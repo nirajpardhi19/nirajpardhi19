@@ -12,3 +12,24 @@
 🤔 You can Check my Portfolio here. This is MY Portfolio
 
 🤓 Always learning new things
+
+
+ class WhoAmI:
+   user = 'Niraj Pardhi'
+   current_edu = "BE Mechanical"
+   currently_learning = "Javascript"
+  
+   hobbies = [
+   			'Bike Rides',
+       			'Gaming',
+   			'Travelling',
+   			'Cooking'
+   		]
+   
+   def getCity():
+   	return Pune_India()
+   
+   def Ambitions():
+   	BecomeSoftwareEngineer()
+   	FinishMyProjects()
+   
