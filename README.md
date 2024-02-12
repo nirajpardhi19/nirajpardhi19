@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React.js, Node.js, Mongodb, Mysql etc.**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sand-chi-34.vercel.app](https://my-portfolio-sand-chi-34.vercel.app)
-
 - 💬 Ask me about **HTML, CSS, Javascript, React.js, Node.js, Mongodb, Mysql etc.**
 
 - 📫 How to reach me **nirajpardhi19@gmail.com**
